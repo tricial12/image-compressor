@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/image-compressor/static/js/main.f4ee57b9.js",
+    "index.html": "/image-compressor/index.html",
+    "main.f4ee57b9.js.map": "/image-compressor/static/js/main.f4ee57b9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f4ee57b9.js"
+  ]
+}
